@@ -1,0 +1,11 @@
+.idea
+.phpunit.cache
+build
+phpstan.neon
+testbench.yaml
+vendor
+coverage
+/workbench
+node_modules/
+.phpunit.result.cache
+vendor/
